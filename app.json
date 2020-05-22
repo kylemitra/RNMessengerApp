@@ -1,0 +1,17 @@
+{
+  "name": "message-board",
+  "displayName": "message-board",
+  "expo": {
+    "name": "message-board",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
